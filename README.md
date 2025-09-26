@@ -1,15 +1,18 @@
 # Streamlining Ticket Assignment for Efficient Support Operations
 
-## Objective
-The objective of this initiative is to implement an **automated system for ticket routing** at **ABC Corporation**, aimed at improving operational efficiency by accurately assigning support tickets to the appropriate teams.  
+## 🎯 Objective
+Implement an **automated ticket routing system** at **ABC Corporation** to improve operational efficiency by ensuring support tickets are accurately assigned to the right teams.  
 
-## Goals
-- **Reduce delays** in issue resolution.  
-- **Enhance customer satisfaction** through faster and more accurate support.  
-- **Optimize resource utilization** within the support department.  
+## 🚀 Goals
+- **Reduce delays** in issue resolution  
+- **Enhance customer satisfaction** with faster and more accurate support  
+- **Optimize resource utilization** across the support department  
 
-## Expected Outcome
+## 📈 Expected Outcomes
 By automating ticket assignment, the support operations will achieve:  
-- Better workload distribution.  
-- Quicker resolution times.  
-- Higher overall efficiency in handling support requests.  
+- Balanced workload distribution  
+- Faster resolution times  
+- Higher efficiency in handling support requests  
+
+## 🎥 Project Demo
+🔗 [Watch the Demo](https://drive.google.com/file/d/1RvmlJ2Oj5xXfHWcB9HIFKXg2uNMMfOyp/view?usp=sharing)
