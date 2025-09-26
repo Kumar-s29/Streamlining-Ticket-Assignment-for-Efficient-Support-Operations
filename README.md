@@ -16,3 +16,6 @@ By automating ticket assignment, the support operations will achieve:
 
 ## 🎥 Project Demo
 🔗 [Watch the Demo](https://drive.google.com/file/d/1RvmlJ2Oj5xXfHWcB9HIFKXg2uNMMfOyp/view?usp=sharing)
+
+## 👤 Project Author
+**Kumara Swamy Swayamvarapu**
